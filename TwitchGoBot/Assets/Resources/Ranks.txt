@@ -1,0 +1,7 @@
+0:Owner:0:false
+1:Admin:0:false
+2:GrandMaster:10000:true
+3:Master:5000:true
+4:Regular:2500:true
+5:Viewer:1000:true
+6:NewGuy:0:false

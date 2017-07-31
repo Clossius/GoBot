@@ -1,0 +1,1002 @@
+fileFormatVersion: 2
+guid: a2ff26796552b455fb0d1b647b4456ca
+timeCreated: 1495558048
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: popo_emotions_full_0
+    21300002: popo_emotions_full_1
+    21300004: popo_emotions_full_2
+    21300006: popo_emotions_full_3
+    21300008: popo_emotions_full_4
+    21300010: popo_emotions_full_5
+    21300012: popo_emotions_full_6
+    21300014: popo_emotions_full_7
+    21300016: popo_emotions_full_8
+    21300018: popo_emotions_full_9
+    21300020: popo_emotions_full_10
+    21300022: popo_emotions_full_11
+    21300024: popo_emotions_full_12
+    21300026: popo_emotions_full_13
+    21300028: popo_emotions_full_14
+    21300030: popo_emotions_full_15
+    21300032: popo_emotions_full_16
+    21300034: popo_emotions_full_17
+    21300036: popo_emotions_full_18
+    21300038: popo_emotions_full_19
+    21300040: popo_emotions_full_20
+    21300042: popo_emotions_full_21
+    21300044: popo_emotions_full_22
+    21300046: popo_emotions_full_23
+    21300048: popo_emotions_full_24
+    21300050: popo_emotions_full_25
+    21300052: popo_emotions_full_26
+    21300054: popo_emotions_full_27
+    21300056: popo_emotions_full_28
+    21300058: popo_emotions_full_29
+    21300060: popo_emotions_full_30
+    21300062: popo_emotions_full_31
+    21300064: popo_emotions_full_32
+    21300066: popo_emotions_full_33
+    21300068: popo_emotions_full_34
+    21300070: popo_emotions_full_35
+    21300072: popo_emotions_full_36
+    21300074: popo_emotions_full_37
+    21300076: popo_emotions_full_38
+    21300078: popo_emotions_full_39
+    21300080: popo_emotions_full_40
+    21300082: popo_emotions_full_41
+    21300084: popo_emotions_full_42
+    21300086: popo_emotions_full_43
+    21300088: popo_emotions_full_44
+    21300090: popo_emotions_full_45
+    21300092: popo_emotions_full_46
+    21300094: popo_emotions_full_47
+    21300096: popo_emotions_full_48
+    21300098: popo_emotions_full_49
+    21300100: popo_emotions_full_50
+    21300102: popo_emotions_full_51
+    21300104: popo_emotions_full_52
+    21300106: popo_emotions_full_53
+    21300108: popo_emotions_full_54
+    21300110: popo_emotions_full_55
+    21300112: popo_emotions_full_56
+    21300114: popo_emotions_full_57
+    21300116: popo_emotions_full_58
+    21300118: popo_emotions_full_59
+    21300120: popo_emotions_full_60
+    21300122: popo_emotions_full_61
+    21300124: popo_emotions_full_62
+    21300126: popo_emotions_full_63
+    21300128: popo_emotions_full_64
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: popo_emotions_full_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 525
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: popo_emotions_full_1
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 526
+        width: 61
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: popo_emotions_full_2
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 527
+        width: 60
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: popo_emotions_full_3
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 529
+        width: 61
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: popo_emotions_full_4
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 525
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: popo_emotions_full_5
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 528
+        width: 60
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: popo_emotions_full_6
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 525
+        width: 61
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: popo_emotions_full_7
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 453
+        width: 61
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: popo_emotions_full_8
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 451
+        width: 62
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: popo_emotions_full_9
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 491
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: popo_emotions_full_10
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 504
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: popo_emotions_full_11
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 502
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: popo_emotions_full_12
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 452
+        width: 63
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: popo_emotions_full_13
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 451
+        width: 62
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: popo_emotions_full_14
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 455
+        width: 61
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: popo_emotions_full_15
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 452
+        width: 62
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: popo_emotions_full_16
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 496
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: popo_emotions_full_17
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 473
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: popo_emotions_full_18
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 478
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: popo_emotions_full_19
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 450
+        width: 49
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: popo_emotions_full_20
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 465
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: popo_emotions_full_21
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 463
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: popo_emotions_full_22
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 376
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: popo_emotions_full_23
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 380
+        width: 61
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: popo_emotions_full_24
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 378
+        width: 60
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: popo_emotions_full_25
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 378
+        width: 61
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: popo_emotions_full_26
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 378
+        width: 61
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: popo_emotions_full_27
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 379
+        width: 61
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: popo_emotions_full_28
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 380
+        width: 61
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: popo_emotions_full_29
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 306
+        width: 61
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: popo_emotions_full_30
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 305
+        width: 64
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: popo_emotions_full_31
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 307
+        width: 61
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: popo_emotions_full_32
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 306
+        width: 58
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: popo_emotions_full_33
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 303
+        width: 63
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: popo_emotions_full_34
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 301
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: popo_emotions_full_35
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 307
+        width: 61
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: popo_emotions_full_36
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 230
+        width: 61
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: popo_emotions_full_37
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 230
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: popo_emotions_full_38
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 231
+        width: 60
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: popo_emotions_full_39
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 232
+        width: 61
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: popo_emotions_full_40
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 233
+        width: 61
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: popo_emotions_full_41
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 231
+        width: 60
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: popo_emotions_full_42
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 228
+        width: 64
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: popo_emotions_full_43
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 156
+        width: 63
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: popo_emotions_full_44
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 158
+        width: 61
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: popo_emotions_full_45
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 156
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: popo_emotions_full_46
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 154
+        width: 61
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: popo_emotions_full_47
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 154
+        width: 61
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: popo_emotions_full_48
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 155
+        width: 62
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: popo_emotions_full_49
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 157
+        width: 62
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: popo_emotions_full_50
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 80
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: popo_emotions_full_51
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 83
+        width: 61
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: popo_emotions_full_52
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 84
+        width: 61
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: popo_emotions_full_53
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 82
+        width: 61
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: popo_emotions_full_54
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 79
+        width: 60
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: popo_emotions_full_55
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 133
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: popo_emotions_full_56
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 134
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: popo_emotions_full_57
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 81
+        width: 62
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: popo_emotions_full_58
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 79
+        width: 60
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: popo_emotions_full_59
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 8
+        width: 61
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: popo_emotions_full_60
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 9
+        width: 60
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: popo_emotions_full_61
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 8
+        width: 61
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: popo_emotions_full_62
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 8
+        width: 63
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: popo_emotions_full_63
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 9
+        width: 61
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: popo_emotions_full_64
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 5
+        width: 62
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
